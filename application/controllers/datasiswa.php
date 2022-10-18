@@ -15,6 +15,7 @@ class datasiswa extends CI_Controller
     }
     public function cetak()
     {
+        $this->load->view('view-header');
         $data = [
             'nama' => $this->input->post('nama'),
             'nis' => $this->input->post('nis'),
@@ -26,5 +27,6 @@ class datasiswa extends CI_Controller
             'agama' => $this->input->post('agama')
         ];
         $this->load->view('view-data-siswa', $data);
+        $this->load->view('view-footer', $data);
     }
 }

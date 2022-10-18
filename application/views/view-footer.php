@@ -1,4 +1,4 @@
-<footer> <a href="http://www.RentalBuku.com">RentalBuku</a> </footer>
+<footer> <a href="http://www.Di-Lemas.com">Di-Lemas</a> </footer>
 </div>
 </body>
 
