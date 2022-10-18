@@ -9,17 +9,17 @@
         <table>
             <tr>
                 <th colspan="3">
-                    Data Mata Siswa
+                    Data Siswa
                 </th>
             </tr>
             <tr>
                 <td colspan="3">
-                    <hr>
+                <hr>
                 </td>
             </tr>
             <tr>
-                <th>Nama Siswa</th>
-                <th>:</th>
+                <td>Nama Siswa</td>
+                <td>:</td>
                 <td>
                     <?= $nama; ?>
                 </td>

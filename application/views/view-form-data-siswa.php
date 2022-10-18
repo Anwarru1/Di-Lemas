@@ -74,13 +74,13 @@
                     <td>
                         <select name="agama" id="agama">
                             <option value="">Pilih Agama</option>
-                            <option value="2">Islam</option>
-                            <option value="3">Kristen</option>
-                            <option value="3">Katolik</option>
-                            <option value="3">Budha</option>
-                            <option value="3">Hindu</option>
-                            <option value="3">Protestan</option>
-                            <option value="3">Khonghucu</option>
+                            <option value="Islam">Islam</option>
+                            <option value="Kristen">Kristen</option>
+                            <option value="Katolik">Katolik</option>
+                            <option value="Budha">Budha</option>
+                            <option value="Hindu">Hindu</option>
+                            <option value="Protestan">Protestan</option>
+                            <option value="Khonghucu">Khonghucu</option>
                         </select>
                     </td>
                 </tr>
